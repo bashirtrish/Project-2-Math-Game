@@ -22,7 +22,7 @@ This project is part of the AbouHadhood Platform training track with Dr. Mohamed
 
 . C++
 
-.<iostream>
+<iostream>
   
 . <cstdlib> (for random number generation)
 
