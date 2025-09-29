@@ -8,25 +8,25 @@ A simple command-line math game where the player answers randomly generated math
 The program tests the player’s speed and accuracy in basic arithmetic operations, including addition, subtraction, multiplication, and division.
 This project is part of the AbouHadhood Platform training track with Dr. Mohamed Abou Hadhoud, and is designed to practice:
 
-Conditional statements
+. Conditional statements
 
-Loops
+. Loops
 
-Random number generation
+. Random number generation
 
-Functions
+. Functions
 
 ----------------------------------------------------------------------------------------------------------------
 🛠 Built With
 ----------------------------------------------------------------------------------------------------------------
 
-C++
+. C++
 
-<iostream>
+. <iostream>
   
-<cstdlib> (for random number generation)
+. <cstdlib> (for random number generation)
 
-<ctime> (for seeding the random function)
+. <ctime> (for seeding the random function)
 
 ----------------------------------------------------------------------------------------------------------------
 
